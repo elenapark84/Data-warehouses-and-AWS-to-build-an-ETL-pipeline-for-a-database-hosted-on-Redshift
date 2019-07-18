@@ -37,8 +37,6 @@ The log files in the dataset you'll be working with are partitioned by year and 
 log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 
-![example of what the data in a log file, 2018-11-12-events.json, looks like](https://classroom.udacity.com/nanodegrees/nd027/parts/69a25b76-3ebd-4b72-b7cb-03d82da12844/modules/58ff61b9-a54f-496d-b4c7-fa22750f6c76/lessons/b3ce1791-9545-4187-b1fc-1e29cc81f2b0/concepts/fa049d13-5e15-4333-b909-f1f6f0ce36a5)
-
 
 ### Schema for Song Play Analysis
 Using the song and event datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
